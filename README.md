@@ -1,10 +1,10 @@
 ## Alexander Satur
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a hard working and motivated student currently on the May 17 Cohort at Makers Academy after a career in 
 
 ## Skills
 
-#### This Skill
+#### Problem Solving
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +12,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
