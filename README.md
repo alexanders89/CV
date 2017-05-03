@@ -42,7 +42,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Schmidt Kitchens Barnet** (Feb 14 to May 17)    
+*Operations Manager*  
+**Mitchells and Butlers, Sheffield and London** (Feb 13 to Dec 13)   
+*Bartender*  
+**McNicolas Architects, Harrogate** (Feb 12 to Jul 12)   
+*Architectural Technologist*  
