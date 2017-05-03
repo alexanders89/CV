@@ -36,7 +36,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - BSc Architectural Technology
 - 2:1
-- Other cool stuff
+- Year working in asset management
 
 #### Any other qualifications
 
