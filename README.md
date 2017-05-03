@@ -1,6 +1,8 @@
 ## Alexander Satur
 
-I am a hard working and motivated student currently on the May 17 Cohort at Makers Academy after a career in 
+I am a hard working and motivated Architecture graduate currently on the May 2017 Makers Academy Cohort looking to begin a career as a junior developer.
+
+Originally from Sheffield I went to University in Leeds to study Architectural Technology which lead to a practice job in Harrogate and eventually to London where I worked as a kitchen designer for three years. After turning down a job with OMD I moved over to the then non existent operations side and started building the showrooms sales support and logistical tracking systems. 
 
 ## Skills
 
@@ -38,8 +40,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - 2:1
 - Year working in asset management
 
-#### Any other qualifications
-
 ## Work Experience
 
 **Schmidt Kitchens Barnet** (Feb 2014 to May 2017)    
@@ -67,7 +67,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Asset Management, EDF Energy** (Sep 2010 to Jun 2011)   
 *Asset Management Internship*
-- Attending a thorough interview and selection and training process over the course of one year
-- Working and engaging with members of the public, VIP’s, dignitaries, athletes and members of the IOC
-- Working in a large team across several different areas
-- Providing a friendly and approachable face of the games whilst assisting members of the public with everything from directions to medical emergencies
+- Work experience placement year in the networks branch.
+- Shadowing experience with in-depth discussions covering different businesses areas within EDF Energy
+- Preparing and presenting projects to senior level managers
+- Provided an extensive insight into the roles and responsibilities throughout a large multinational.
