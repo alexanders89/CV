@@ -40,11 +40,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-## Experience
+## Work Experience
 
 **Schmidt Kitchens Barnet** (Feb 14 to May 17)    
 *Operations Manager*  
 **Mitchells and Butlers, Sheffield and London** (Feb 13 to Dec 13)   
 *Bartender*  
 **McNicolas Architects, Harrogate** (Feb 12 to Jul 12)   
+*Architectural Technologist*  
+**Gamesmaker London 2012 Olympics** (20 Jul to 15 Aug)   
 *Architectural Technologist*  
