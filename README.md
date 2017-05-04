@@ -8,11 +8,7 @@ Originally from Sheffield I went to University in Leeds to study Architectural T
 
 #### Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+I’ve always enjoyed being set a challenge and coming up with inventive and efficient ways of solving. A majority of my previous job involved working out ways to integrate two separate systems that hadn't been brought together before but also doing this in a way that meant the sales staff would instinctively be able to use it.
 
 #### Communication
 
