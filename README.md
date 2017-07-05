@@ -1,3 +1,5 @@
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
+
 ## Alexander Satur
 
 Hard working and creative Junior Developer currently looking for my first role in the industry having recently graduated from Makers Academy following a career in kitchen design and architecture.
