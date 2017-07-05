@@ -25,6 +25,14 @@ I have always been drawn to creative environments and the possibilities they off
 
 ## Projects
 
+## Projects
+
+| Projects  | Tech Stack  | Time frame  |
+| --- | --- | --- |
+| Boris Bikes | Ruby  | 5 days |
+| Bank tech test | Ruby  | Week 10, written in one day | 
+| Theresa Mayhem  | Unity, MakeHuman, C#  | Weeks 11 and 12, final project in a team of 3 |
+
 
 ## Education
 
