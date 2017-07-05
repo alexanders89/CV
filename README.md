@@ -27,11 +27,10 @@ I have always been drawn to creative environments and the possibilities they off
 
 ## Projects
 
-| Projects  | Tech Stack  | Time frame  |
-| --- | --- | --- |
-| Boris Bikes | Ruby  | 5 days |
-| Bank tech test | Ruby  | Week 10, written in one day | 
-| Theresa Mayhem  | Unity, MakeHuman, C#  | Weeks 11 and 12, final project in a team of 3 |
+| Projects  | Tech  | Time frame  | Description  |
+| --- | --- | --- | --- |
+| Boris Bikes | Ruby  | 5 days | Use TDD to implement a slimmed down version of Londons Cycle Hire |
+
 
 
 ## Education
