@@ -1,7 +1,5 @@
 ## Alexander Satur
 
-alex = JuniorDeveloper.new
-
 Hard working and creative Junior Developer currently looking for my first role in the industry having recently graduated from Makers Academy following a career in kitchen design and architecture.
 
 During the 16 week Makers bootcamp I gained experience in Ruby, Ruby on Rails, JavaScript, Python, DataMapper, PostgreSQL, HTML, CSS and many more technologies. On top of these platforms I also learned to approach learning and development in a whole new way which I believe is the most valuable aspect I will take from the course.
