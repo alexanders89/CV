@@ -1,8 +1,13 @@
 ## Alexander Satur
 
-I am a hard working and motivated Architecture graduate currently on the May 2017 Makers Academy Cohort looking to begin a career as a junior developer.
+alex = JuniorDeveloper.new
 
-Originally from Sheffield I went to University in Leeds to study Architectural Technology which lead to a practice job in Harrogate and eventually to London where I worked as a kitchen designer for three years. After turning down a job with OMD I moved over to the then non existent operations side and started building the showrooms sales support and logistical tracking systems. 
+Hard working and creative Junior Developer currently looking for my first role in the industry having recently graduated from Makers Academy following a career in kitchen design and architecture.
+
+During the 16 week Makers bootcamp I gained experience in Ruby, Ruby on Rails, JavaScript, Python, DataMapper, PostgreSQL, HTML, CSS and many more technologies. On top of these platforms I also learned to approach learning and development in a whole new way which I believe is the most valuable aspect I will take from the course.
+
+Writing code appeals to appeals to my creative nature as the possibilities are quite literally limitless! My confidence has grown massively as i’ve realised nothing is impossible and no problem is insurmountable as even the most difficult problem can be devoured one user story at a time through neat and tidy Test Driven Development. 
+
 
 ## Skills
 
@@ -12,12 +17,10 @@ I’ve always enjoyed being set a challenge and coming up with inventive and eff
 
 #### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+A large part of my previous work experience involved presenting to clients and being on hand to answer both technical and emotionally based questions. I have always found speaking in front of large groups and meeting new people both stress free and enjoyable, this helped a great deal during my previous role as I was also responsible for the training of all new starters. I was attracted to this aspect of the job as I found it easy to have an empathy with the trainee and see the situation they are facing through their eyes so I could explain it to them in a way that aids their understanding.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Creativity
+
 
 ## Education
 
