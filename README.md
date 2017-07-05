@@ -19,6 +19,8 @@ A large part of my previous work experience involved presenting to clients and b
 
 #### Creativity
 
+I have always been drawn to creative environments and the possibilities they offer. A steady graduation of technologies starting on Lego lead me through Architecture, Kitchens and finally to lines of computer code. 
+
 
 ## Education
 
