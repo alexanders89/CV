@@ -1,4 +1,4 @@
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#workexperience) | [Hobbies](#hobbies) | [Contact](#contact)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [Contact](#contact)
 
 ## Alexander Satur
 
@@ -43,7 +43,7 @@ I have always been drawn to creative environments and the possibilities they off
 - 2:1
 - Year working in asset management
 
-## Work Experience
+## Experience
 
 **Schmidt Kitchens Barnet** (Feb 2014 to May 2017)    
 *Operations Manager*
