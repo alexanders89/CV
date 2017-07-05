@@ -1,4 +1,4 @@
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work experience) | [Hobbies](#hobbies) | [Contact](#contact)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#workexperience) | [Hobbies](#hobbies) | [Contact](#contact)
 
 ## Alexander Satur
 
