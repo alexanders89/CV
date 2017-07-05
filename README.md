@@ -23,6 +23,8 @@ A large part of my previous work experience involved presenting to clients and b
 
 I have always been drawn to creative environments and the possibilities they offer. A steady graduation of technologies starting on Lego lead me through Architecture, Kitchens and finally to lines of computer code. 
 
+## Projects
+
 
 ## Education
 
@@ -65,10 +67,20 @@ I have always been drawn to creative environments and the possibilities they off
 - Working in a large team across several different areas
 - Providing a friendly and approachable face of the games whilst assisting members of the public with everything from directions to medical emergencies
 
-
 **Asset Management, EDF Energy** (Sep 2010 to Jun 2011)   
 *Asset Management Internship*
 - Work experience placement year in the networks branch.
 - Shadowing experience with in-depth discussions covering different businesses areas within EDF Energy
 - Preparing and presenting projects to senior level managers
 - Provided an extensive insight into the roles and responsibilities throughout a large multinational.
+
+
+## Hobbies
+
+Keen squash player, mountain biker and snowboarder pursued through university socials as well as personally.In 2004 I undertook a course in France to achieve a solo paragliding license.
+From age 13 to 17 I was in a cadet in the local ATC squadron where I took part in activities such as flying, gliding, shooting, leadership training, athletic competitions and visits to RAF bases which included flying in current operational aircraft.
+
+
+## Contact
+
+mralexsatur@gmail.com
