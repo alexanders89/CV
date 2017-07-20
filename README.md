@@ -6,7 +6,7 @@ Hard working and creative Junior Developer currently looking for my first role i
 
 During the 16 week Makers bootcamp I gained experience in Ruby, Ruby on Rails, JavaScript, Python, DataMapper, PostgreSQL, HTML, CSS and many more technologies. On top of these platforms I also learned to approach learning and development in a whole new way which I believe is the most valuable aspect I will take from the course.
 
-Writing code appeals to appeals to my creative nature as the possibilities are quite literally limitless! My confidence has grown massively as i’ve realised nothing is impossible and no problem is insurmountable as even the most difficult problem can be devoured one user story at a time through neat and tidy Test Driven Development. 
+Writing code appeals to my creative nature as the possibilities are quite literally limitless! My confidence has grown massively as i’ve realised nothing is impossible and no problem is insurmountable as even the most difficult problem can be devoured one user story at a time through neat and tidy Test Driven Development. 
 
 
 ## Skills
