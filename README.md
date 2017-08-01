@@ -32,6 +32,7 @@ I have always been drawn to creative environments and the possibilities they off
 | Oyster Card | Ruby | 5 Days | OOD to construct a simple travel card system |
 | ShowNTell | Python | 5 Days | App that will verbally identify photo's uploaded by visually impaired users |
 | MakersBNB | Ruby and Javascript | 5 Days | Build Airbnb
+| Deblocracy | Solidity, Truffle, Javascript | 2 weeks | Blockchain voting app
 
 
 
@@ -39,11 +40,11 @@ I have always been drawn to creative environments and the possibilities they off
 
 #### Makers Academy (May 2017 to August 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Test driven development
+- Learning how to successfully pair program with a variety of people
+- OOP, TDD, MVC
+- Software Craftsmanship and being proud of the code I write
+- Ruby, Rails, Javascript
 - Rspec, Jasmine, Mocha
 
 #### Leeds Metropolitan University	2008 - 2013
