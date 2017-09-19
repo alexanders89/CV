@@ -33,6 +33,7 @@ I have always been drawn to creative environments and the possibilities they off
 | ShowNTell | Python | 5 Days | App that will verbally identify photo's uploaded by visually impaired users |
 | MakersBNB | Ruby and Javascript | 5 Days | Build Airbnb
 | Deblocracy | Solidity, Truffle, Javascript | 2 weeks | Blockchain voting app
+| MakersBNB | Rails | 5 Days | Facebook clone
 
 
 
